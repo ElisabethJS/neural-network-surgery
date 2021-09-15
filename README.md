@@ -6,7 +6,7 @@ Copyright (c) 2021 Schiessler et al.
 Minimal software requirements:
 * python 3.8.0
 * numpy 1.19.0
-__* tensorflow 2.4.0__
+* __tensorflow 2.4.0__
 * tensorflow-datasets 4.2.0
 
 If you have any questions please contact us at elisabeth.schiessler@hereon.de
